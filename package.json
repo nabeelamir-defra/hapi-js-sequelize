@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "sequelize:start": "node server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
